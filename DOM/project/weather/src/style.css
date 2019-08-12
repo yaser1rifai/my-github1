@@ -1,0 +1,64 @@
+*{
+  box-sizing: border-box;
+  text-align: center;
+ 
+/*  */
+}
+
+h1{
+  color: red;
+  border-radius: 60px;
+  width: 50%;
+  position: relative;
+  left: 100px;
+}
+
+
+button {
+  
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  box-sizing: border-box;
+  font-size: 30px;
+}
+
+span{
+  color: red;
+}
+.two{
+  font-size: 40px;
+  text-align: center;
+}
+.container {
+  border-radius: 60px;
+  background-color:#33ccff;
+  width: 40%;
+  height: 25%;
+  align-content: center;
+  text-align: center;
+  padding: 40px;
+  margin-top:30px;
+  position: relative;
+  left: 360px;
+  border: 3px solid rgb(173, 84, 33);
+  box-shadow: 5px 10px #888888;
+}
+
+
+
+input {
+  width: 50%;
+  
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  box-sizing: border-box;
+  font-size: 30px;
+}
+

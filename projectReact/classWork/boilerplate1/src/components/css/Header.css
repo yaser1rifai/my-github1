@@ -1,0 +1,18 @@
+.navigation{
+    width:100vw;
+    min-height : 3rem;
+    background-color:lightgray;
+    padding:1rem;
+}
+
+.navigation-ul{
+    display:flex;
+    justify-content:space-around;
+}
+
+.navigation-ul li{
+    padding:5px;
+    background-color:chartreuse;
+    list-style:none;
+    border-radius:5px;
+}
